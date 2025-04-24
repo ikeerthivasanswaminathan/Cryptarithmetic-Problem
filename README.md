@@ -1,4 +1,4 @@
-<h1>Exp No 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
+<h1>Exp No 8 : Solve Cryptarithmetic Problem, a CSP(Constraint Satisfaction Problem) using Python</h1> 
 <h3>Name: KEERTHIVASAN S              </h3>
 <h3>Register Number: 212223220046     </h3>
 <H3> Aim : </H3>
